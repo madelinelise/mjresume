@@ -1,0 +1,21 @@
+@import "./../../style.scss";
+ //TODO: Organize by layout/non-layout.
+.circle-cta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.circle-cta--stat {
+  @include font-montserrat-bold;
+  font-size: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid $color-primary;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  padding: 20px;
+  margin-bottom: 30px;
+}

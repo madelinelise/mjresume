@@ -1,0 +1,19 @@
+@import './../../style.scss';
+
+.list {
+  column-count: 3;
+  padding: 15px;
+
+  > li {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    position: relative;
+
+    &::before {
+      content: "\2014";
+      display: block;
+      position: absolute;
+      left: -30px;
+    }
+  }
+}

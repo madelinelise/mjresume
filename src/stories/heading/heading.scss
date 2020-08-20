@@ -1,0 +1,11 @@
+@import './../../style.scss';
+
+.heading {
+  @include font-montserrat;
+  font-size: 32px;
+  color: $color-charcoal;
+}
+
+.heading--main {
+  color: $color-white;
+}
