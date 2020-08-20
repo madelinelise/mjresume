@@ -1,15 +1,14 @@
 @import './../../style.scss';
 
-.wrapper {
+.header {
   background-color: $color-primary;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 100px;
-}
 
-.header {
   .heading {
     color: $color-white;
+    font-size: 3rem;
   }
 }

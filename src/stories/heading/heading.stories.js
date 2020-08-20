@@ -10,6 +10,7 @@ export default {
 
 const Template = (args) => <Heading 
   title = {data.title}
+  headingLevel = "h2"
 />;
 
 export const HeadingStory = Template.bind({});

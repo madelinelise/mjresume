@@ -1,14 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Heading } from '../heading/heading';
-import { Button } from '../button/button'
 import './header.scss';
 
 
 export const Header = ({ user, onLogin, onLogout, onCreateAccount }) => (
   <header>
-    <div className="wrapper">
-      <Heading/>
+    <div className="header">
+      <Heading
+        title = "Madeline Schimenti"
+        headingLevel = "h1"
+      />
     </div>
   </header>
 );

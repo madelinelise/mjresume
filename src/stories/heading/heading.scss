@@ -2,7 +2,8 @@
 
 .heading {
   @include font-montserrat;
-  font-size: 32px;
+  margin-bottom: 30px;
+  font-size: 2rem;
   color: $color-charcoal;
 }
 
