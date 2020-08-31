@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import "./body-text.scss";
 
 export const BodyText = (props) => {
   const { description } = props;
