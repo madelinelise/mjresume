@@ -1,5 +1,5 @@
 @import "./../../style.scss";
- //TODO: Organize by layout/non-layout.
+
 .circle-cta {
   display: flex;
   flex-direction: column;
@@ -13,6 +13,7 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
+  margin-bottom: 35px;
 }
 
 .circle-cta--stat {
