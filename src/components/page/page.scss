@@ -1,0 +1,13 @@
+@import './../../style.scss';
+
+.page-layout {
+  background-color: $color-white;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px;
+  margin-top: -80px;
+
+  @include breakpoint($bp-md) {
+    padding: 100px;
+  }
+}

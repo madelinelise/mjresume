@@ -1,0 +1,117 @@
+{
+  "bodyText": {
+    "description": "Hi, my name is Madeline and I am a developer with 6 years experience in web development, strategy, and design. My experience includes managing the planning, design and development for many projects from concept to implementation. I am looking for an opportunity to use this experience and lead in a senior position to share my experience and knowledge to set up my team for success."
+  },
+  "heading": {
+    "title": "A few favorite projects I've worked on",
+    "headingLevel": "h1"
+  },
+  "project_items": [
+    { "title": "Scholar's Edge 529 ", "url": "https://scholarsedge529.com/" },
+    {
+      "title": "Be Well Work Well",
+      "url": "https://www.pwc.com/us/en/about-us/purpose-and-values/well-being-learning-project.html"
+    },
+    { "title": "MagMutual", "url": "https://www.magmutual.com/" },
+    { "title": "NASDAQ", "url": "https://www.nasdaq.com/" },
+    { "title": "Harvard College", "url": "https://college.harvard.edu/" },
+    {
+      "title": "Anderson University",
+      "url": "https://andersonuniversity.edu/"
+    },
+    { "title": "Shirely Ryan Ability Lab", "url": "https://www.sralab.org/" },
+    { "title": "Penn State News", "url": "https://news.psu.edu/" },
+    { "title": "Volusia County Schools", "url": "https://www.vcsedu.org/" },
+    {
+      "title": "Rain distribution",
+      "url": "https://www.drupal.org/project/rain"
+    },
+    {
+      "title": "Collective Directory distribution",
+      "url": "https://www.drupal.org/project/collective"
+    },
+    { "title": "D8 Theming with Pattern Lab - Video Series", "url": "#" }
+  ],
+  "heading_exp": {
+    "title": "Experience",
+    "headingLevel": "h2"
+  },
+  "jobs": [
+    {
+      "dates": "June 2019 - Present",
+      "title": "Developer",
+      "company": "Mediacurrent",
+      "description": "Mediacurrent is a full service digital agency that allows me to work with great clients & build awesome websites everyday. I am involved in a variety of new build projects and support projects like Scholar's Edge, Harvard, etc."
+    },
+    {
+      "dates": "Dec 2016 - June 2019",
+      "title": "Supervisor, Web Services",
+      "company": "Volusia County Schools",
+      "description": "At VCS I led the Web Services team. Our disctrict website had 128 subsites and about 70 school sites! My favorite project here was planning and leading the district website redesign for vscedu.org from SharePoint to Drupal"
+    },
+    {
+      "dates": "Dec 2014 - Dec 2016",
+      "title": "Web Content Manager",
+      "company": "Furniture Leisure",
+      "description": "At Furniture Leisure I was a content manager and strategist for 5 eCommerce websites. Oversaw the relaunch of 2 eCommerce websites to an upgraded system, new design, and revamped content for SEO."
+    }
+  ],
+
+  "cta_items": [
+    {
+      "stat": "6+",
+      "description": "Years of experience"
+    },
+    {
+      "stat": "AA",
+      "description": "Associates of Arts"
+    },
+    {
+      "stat": "BSIT",
+      "description": "Bachelor's of Science I.T"
+    }
+  ],
+  "heading_skills": {
+    "title": "On a typical day I work with",
+    "headingLevel": "h2"
+  },
+  "skill_items": [
+    { "title": "React" },
+    { "title": "Javascript" },
+    { "title": "SASS/SCSS" },
+    { "title": "HTML5" },
+    { "title": "GraphQL" },
+    { "title": "Gatsby" },
+    { "title": "PHP" },
+    { "title": "Twig" },
+    { "title": "Flexbox & Grid" },
+    { "title": "Drupal 7/8/9" },
+    { "title": "Pattern Lab / Storybook" },
+    { "title": "Node / npm / nvm" },
+    { "title": "Git" },
+    { "title": "Cypress" },
+    { "title": "Jest" }
+
+  ],
+  "contact": {
+  "image": "https://media-exp1.licdn.com/dms/image/C5603AQGcVFfOveAK8Q/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=rhNLzOcXTGxL7PhfgaWNbzquWJtnvZZ-JRCkxEl99sM",
+    "items": [
+      {
+        "title": "madelinelise@gmail.com",
+        "url": "mailto:madelinelise@gmail.com"
+      },
+      {
+        "title": "386-302-9853",
+        "url": "386-302-9853"
+      },
+      {
+        "title": "Checkout this repo.",
+        "url": "#"
+      },
+      {
+        "title": "There is a Storybook for this page!",
+        "url": "#"
+      }
+    ]
+  }
+}
