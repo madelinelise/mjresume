@@ -1,8 +1,14 @@
 @import "./../../style.scss";
-//TODO: Organize by layout/non-layout.
 
 .cta-list {
   display: flex;
-  justify-content: space-evenly;
-  margin-bottom: 100px;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+
+  @include breakpoint($bp-md) {
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+  }
 }
