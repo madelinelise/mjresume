@@ -1,0 +1,21 @@
+{
+  "image": "https://via.placeholder.com/200x200.png",
+  "items": [
+    {
+      "title": "madelinelise@gmail.com",
+      "url": "mailto:madelinelise@gmail.com"
+    },
+    {
+      "title": "386-302-9853",
+      "url": "386-302-9853"
+    },
+    {
+      "title": "Checkout this repo",
+      "url": "#"
+    },
+    {
+      "title": "There is a Storybook for this page!",
+      "url": "#"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+@import "./../../style.scss";
+
+.contact {
+  border-top: 1px solid $color-charcoal;
+  border-bottom: 1px solid $color-charcoal;
+  display: flex;
+  padding: 95px 0 80px;
+  margin-bottom: 60px;
+  justify-content: center;
+
+   li {
+    margin-left: 30px;
+    margin-bottom: 15px;
+    position: relative;
+
+    a {
+      color: $color-charcoal;
+    }
+
+    &::before {
+      content: "\2014";
+      display: block;
+      position: absolute;
+      left: -30px;
+    }
+
+    &:hover{
+      &::before {
+        color: $color-primary;
+        font-weight: bold;
+      }
+    }
+  }
+}
+
+.contact--left {
+  position: relative;
+
+  img {
+    position: relative;
+    z-index: 2;
+  }
+
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    background-color: #4e4e60;
+    width: 200px;
+    height: 200px;
+    top: -15px;
+    right: -15px;
+    z-index: 1;
+  }
+}
+
+.contact--right {
+  margin-left: 80px;
+}
