@@ -1,0 +1,91 @@
+@import "./../../style.scss";
+
+.timeline {
+  line-height: 1.4em;
+  list-style: none;
+  margin-bottom: 100px;
+  padding: 0;
+  width: 100%;
+}
+
+.timeline-item {
+  padding-left: 40px;
+  position: relative;
+  padding-bottom: 40px;
+
+  &:last-child {
+    padding-bottom: 0;
+  }
+}
+
+.timeline-info {
+  @include font-open-sans;
+  font-size: 0.75rem;
+  font-weight: 700;
+  margin: 0 0 0.5em 0;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: $color-primary;
+}
+
+.timeline-marker {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 15px;
+
+  &:before {
+    background: $color-primary;
+    border: 3px solid transparent;
+    border-radius: 100%;
+    content: '';
+    display: block;
+    height: 15px;
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 15px;
+    transition: background 0.3s ease-in-out, border 0.3s ease-in-out;
+    z-index: 2;
+  }
+
+  &:after {
+    content: '';
+    width: 3px;
+    background: $color-lgray;
+    display: block;
+    position: absolute;
+    top: 24px;
+    bottom: 0;
+    left: 9px;
+    z-index: 1;
+  }
+
+  .timeline-item:last-child &:after {
+    content: none;
+  }
+}
+
+.timeline-item:not(.period):hover .timeline-marker:before {
+  background: transparent;
+  border: 3px solid $color-primary;
+}
+
+.timeline-content {
+  padding-bottom: 40px;
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.timeline-title {
+  @include font-montserrat-bold;
+  font-size: 1.25rem;
+  margin-bottom: 15px;
+}
+
+.timeline-company {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
