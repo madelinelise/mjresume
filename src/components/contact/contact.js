@@ -17,7 +17,7 @@ export const Contact = (props) => {
   return (
     <div class="contact">
       <div class="contact--left">
-        <img src={`${image}`} />
+        <img src={`${image}`} alt="Madeline Schimenti"/>
       </div>
       <div class="contact--right">
         <Heading title={"Reach Out"} headingLevel={"h2"} />
