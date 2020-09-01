@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import "./timeline.scss";
 
 export const Timeline = (props) => {
@@ -23,6 +22,3 @@ export const Timeline = (props) => {
     </ul>
   );
 };
-
-// TODO: Fix proptypes.
-Timeline.propTypes = {};

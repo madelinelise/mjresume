@@ -13,7 +13,3 @@ const Template = (args) => <Timeline
 />;
 
 export const TimelineStory = Template.bind({});
-
-TimelineStory.args = {
-  /* the args you need here will depend on your component */
-};

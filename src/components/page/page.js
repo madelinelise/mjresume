@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import data from "./data.json";
 import "./page.scss";
 import { Header } from "../header/header";
