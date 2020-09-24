@@ -30,7 +30,7 @@
       "title": "Collective Directory distribution",
       "url": "https://www.drupal.org/project/collective"
     },
-    { "title": "D8 Theming with Pattern Lab - Video Series", "url": "#" }
+    { "title": "Theming with Components - Video Series", "url": "www.youtube.com/playlist?list=PLu-MxhbnjI9oEF9uR59Sq66_7Pf4guwG1"}
   ],
   "heading_exp": {
     "title": "Experience",
@@ -101,13 +101,13 @@
         "url": "mailto:madelinelise@gmail.com"
       },
       {
-        "title": "386-302-9853",
-        "url": "386-302-9853"
-      },
+        "title": "386-302-9853", 
+        "url": "386-302-9853" 
+      }, 
       {
-        "title": "Checkout this repo!",
+        "title": "Checkout this repo!", 
         "url": "#"
       }
-    ]
+    ] 
   }
 }
