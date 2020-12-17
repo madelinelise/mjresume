@@ -21,7 +21,7 @@
     },
     { "title": "Shirely Ryan Ability Lab", "url": "https://www.sralab.org/" },
     { "title": "Penn State News", "url": "https://news.psu.edu/" },
-    { "title": "Volusia County Schools", "url": "https://www.vcsedu.org/" },
+    { "title": "Mediacurrent", "url": "https://www.mediacurrent.com/" },
     {
       "title": "Rain distribution",
       "url": "https://www.drupal.org/project/rain"
@@ -30,7 +30,10 @@
       "title": "Collective Directory distribution",
       "url": "https://www.drupal.org/project/collective"
     },
-    { "title": "Theming with Components - Video Series", "url": "www.youtube.com/playlist?list=PLu-MxhbnjI9oEF9uR59Sq66_7Pf4guwG1"}
+    {
+      "title": "Theming with Components - Video Series",
+      "url": "https://www.youtube.com/playlist?list=PLu-MxhbnjI9oEF9uR59Sq66_7Pf4guwG1"
+    }
   ],
   "heading_exp": {
     "title": "Experience",
@@ -41,7 +44,7 @@
       "dates": "June 2019 - Present",
       "title": "Developer",
       "company": "Mediacurrent",
-      "description": "Mediacurrent is a full service digital agency that allows me to work with great clients & build awesome websites everyday. I am involved in a variety of new build projects and support projects like Scholar's Edge, Harvard, etc."
+      "description": "At Mediacurrent I get the opportunity to support and lead on a variety of projects with different technology stacks. One day I may be working with a decoupled React/Gatsby site, the next day I may be working with Drupal or Wordpress."
     },
     {
       "dates": "Dec 2016 - June 2019",
@@ -91,23 +94,18 @@
     { "title": "Git" },
     { "title": "Cypress" },
     { "title": "Jest" }
-
   ],
   "contact": {
-  "image": "https://media-exp1.licdn.com/dms/image/C5603AQGcVFfOveAK8Q/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=rhNLzOcXTGxL7PhfgaWNbzquWJtnvZZ-JRCkxEl99sM",
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQGdO27Y2MeesQ/profile-displayphoto-shrink_200_200/0/1601065169363?e=1613606400&v=beta&t=3iMZtJNvgk5M8AspbWIaadrNNgOAsSilXW3fqGJ8sOI",
     "items": [
       {
         "title": "madelinelise@gmail.com",
         "url": "mailto:madelinelise@gmail.com"
       },
       {
-        "title": "386-302-9853", 
-        "url": "386-302-9853" 
-      }, 
-      {
-        "title": "Checkout this repo!", 
-        "url": "#"
+        "title": "386-302-9853",
+        "url": "386-302-9853"
       }
-    ] 
+    ]
   }
 }

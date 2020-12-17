@@ -7,7 +7,7 @@ export const Header = () => (
   <header>
     <div className="header">
       <Heading
-        title = "Madeline Schimenti"
+        title = "Madeline Jensen"
         headingLevel = "h1"
       />
     </div>
