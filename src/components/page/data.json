@@ -19,9 +19,13 @@
       "title": "Anderson University",
       "url": "https://andersonuniversity.edu/"
     },
+    { "title": "Mediacurrent.com", "url": "https://www.mediacurrent.com/" },
+    {
+      "title": "Care.org",
+      "url": "https://www.care.org"
+    },
     { "title": "Shirely Ryan Ability Lab", "url": "https://www.sralab.org/" },
     { "title": "Penn State News", "url": "https://news.psu.edu/" },
-    { "title": "Mediacurrent", "url": "https://www.mediacurrent.com/" },
     {
       "title": "Rain distribution",
       "url": "https://www.drupal.org/project/rain"
@@ -29,6 +33,26 @@
     {
       "title": "Collective Directory distribution",
       "url": "https://www.drupal.org/project/collective"
+    },
+    {
+      "title": "Brand USA",
+      "url": "https://www.visittheusa.com/"
+    },
+    {
+      "title": "Parktables.com",
+      "url": "https://www.parktables.com/"
+    },
+    {
+      "title": "Asset Intertech",
+      "url": "https://www.asset-intertech.com/"
+    },
+    {
+      "title": "Volusia County Schools",
+      "url": "https://www.vcsedu.org/"
+    },
+    {
+      "title": "City College of New York",
+      "url": "https://www.ccny.cuny.edu/"
     },
     {
       "title": "Theming with Components - Video Series",
@@ -44,7 +68,7 @@
       "dates": "June 2019 - Present",
       "title": "Developer",
       "company": "Mediacurrent",
-      "description": "At Mediacurrent I get the opportunity to support and lead on a variety of projects with different technology stacks. One day I may be working with a decoupled React/Gatsby site, the next day I may be working with Drupal or Wordpress."
+      "description": "At Mediacurrent I get the opportunity to support and lead on a variety of projects with different technology stacks such as React, Gatsby, Drupal, etc. With my experience, I also get a great opportunity to mentor my team to help them grow professionally and with their technical skills."
     },
     {
       "dates": "Dec 2016 - June 2019",
@@ -54,7 +78,7 @@
     },
     {
       "dates": "Dec 2014 - Dec 2016",
-      "title": "Web Content Manager",
+      "title": "Manager, Web Content",
       "company": "Furniture Leisure",
       "description": "At Furniture Leisure I was a content manager and strategist for 5 eCommerce websites. Oversaw the relaunch of 2 eCommerce websites to an upgraded system, new design, and revamped content for SEO."
     }
